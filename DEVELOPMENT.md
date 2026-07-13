@@ -54,5 +54,5 @@ Once your changes are verified and working in the GitHub clone:
     ```
     DEPS_CHECKED=true
     ```
-    *A presubmit check (configured in [METADATA](file:///google/src/cloud/interweb/prodx-fixit-share-260608150135/google3/third_party/webrisk/METADATA)) enforces this tag if `go.mod` or `go.sum` are modified. This confirms you followed this guide and verified the updates externally.*
+    *A presubmit check (configured in [METADATA](http://google3/third_party/webrisk/METADATA)) enforces this tag if `go.mod` or `go.sum` are modified. This confirms you followed this guide and verified the updates externally.*
 3.  Submit the CL. Copybara will automatically mirror your changes back to GitHub.

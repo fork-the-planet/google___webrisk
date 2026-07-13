@@ -65,4 +65,4 @@ Because of internal `google3/...` import paths in Piper, **you cannot run `go ge
 ---
 
 ## Detailed Development Workflow
-For a complete guide on developing and making non-dependency changes to the container app, see [DEVELOPMENT.md](file:///google/src/cloud/interweb/prodx-fixit-share-260608150135/google3/third_party/webrisk/DEVELOPMENT.md).
+For a complete guide on developing and making non-dependency changes to the container app, see [DEVELOPMENT.md](http://google3/third_party/webrisk/DEVELOPMENT.md).
